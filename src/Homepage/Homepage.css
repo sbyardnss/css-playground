@@ -1,0 +1,28 @@
+#homepageContainer {
+    padding-top: 120px;
+    height: 100vh;
+    background-color: gray;
+}
+#rotationSection{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.pageButton {
+    width: 16em;
+    height: 3em;
+    border-radius: 10px;
+    border: 2px solid darkblue;
+    font-size: larger;
+    background-color: rgb(175, 230, 252);
+    cursor: pointer;
+}
+.pageButton:hover {
+        width: 16em;
+        height: 3em;
+        border-radius: 10px;
+        border: 2px solid darkblue;
+        font-size: larger;
+        background-color: rgb(175, 252, 243);
+        cursor: pointer;
+}
