@@ -2,7 +2,7 @@ import "../Rotation/Rotation.css"
 export const Rotation = () => {
 
     return <>
-        <main id="otherServicesContainer">
+        <main id="rotationContainer">
             <section id="radialSection">
                 <div id="radial1">
                     <div id="radial2">

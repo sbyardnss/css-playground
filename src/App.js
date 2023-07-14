@@ -25,10 +25,12 @@
 // export default App;
 import { Route, Routes } from "react-router-dom"
 import { ApplicationViews } from "./ApplicationViews"
+import { Nav } from "./Nav/Nav"
 export const CSSIdeas = () => {
   return <Routes>
     <Route path="*" element={
       <>
+        <Nav />
         <ApplicationViews />
       </>
     } />
