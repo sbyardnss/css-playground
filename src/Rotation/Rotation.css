@@ -1,0 +1,263 @@
+@keyframes Rotate-1 {
+    from {transform: rotate(90deg);}
+    to {transform: rotate(0deg);}
+}
+
+
+#otherServicesContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    
+}
+
+#radialSection {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+    width: 40em;
+    height: 40em;
+    background-color: black;
+    
+}
+
+#radial1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: transparent;
+    border: 1px solid orange;
+    box-shadow: 0px 0 10px darkorange, 0px 0 10px darkorange inset;
+    /* transform: rotate(45deg); */
+    width: 27em;
+    height: 27em;
+    animation-name: Rotate-1;
+    animation-duration: 2s;
+    animation-direction: alternate;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+    /* animation: Rotate 2s ease infinite; */
+}
+
+#radial2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: transparent;
+    border: 1px solid lightblue;
+    box-shadow: 0px 0 10px lightblue, 0px 0 10px lightblue inset;
+    transform: rotate(4deg);
+    width: 25em;
+    height: 25em;
+    animation-name: Rotate-1;
+    animation-duration: 2s;
+    animation-direction: alternate;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+}
+
+#radial3 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: transparent;
+    border: 1px solid pink;
+    box-shadow: 0px 0 10px pink, 0px 0 10px pink inset;
+    transform: rotate(4deg);
+    width: 23em;
+    height: 23em;
+    animation-name: Rotate-1;
+    animation-duration: 2s;
+    animation-direction: alternate;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+}
+
+#radial4 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: transparent;
+    border: 1px solid gold;
+    box-shadow: 0px 0 10px gold, 0px 0 10px gold inset;
+    transform: rotate(4deg);
+    width: 21em;
+    height: 21em;
+    animation-name: Rotate-1;
+    animation-duration: 2s;
+    animation-direction: alternate;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+}
+
+#radial5 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: transparent;
+    border: 1px solid lime;
+    box-shadow: 0px 0 10px lime, 0px 0 10px lime inset;
+    transform: rotate(4deg);
+    width: 19em;
+    height: 19em;
+    animation-name: Rotate-1;
+    animation-duration: 2s;
+    animation-direction: alternate;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+}
+
+#radial6 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: transparent;
+    border: 1px solid whitesmoke;
+    box-shadow: 0px 0 10px whitesmoke, 0px 0 10px whitesmoke inset;
+    transform: rotate(4deg);
+    width: 17em;
+    height: 17em;
+    animation-name: Rotate-1;
+    animation-duration: 2s;
+    animation-direction: alternate;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+}
+
+#radial7 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: transparent;
+    border: 1px solid crimson;
+    box-shadow: 0px 0 10px crimson, 0px 0 10px crimson inset;
+    transform: rotate(4deg);
+    width: 15em;
+    height: 15em;
+    animation-name: Rotate-1;
+    animation-duration: 2s;
+    animation-direction: alternate;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+}
+
+#radial8 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: transparent;
+    border: 1px solid slateblue;
+    box-shadow: 0px 0 10px slateblue, 0px 0 10px slateblue inset;
+    transform: rotate(4deg);
+    width: 13em;
+    height: 13em;
+    animation-name: Rotate-1;
+    animation-duration: 2s;
+    animation-direction: alternate;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+}
+
+#radial9 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: transparent;
+    border: 1px solid magenta;
+    box-shadow: 0px 0 10px magenta, 0px 0 10px magenta inset;
+    transform: rotate(4deg);
+    width: 11em;
+    height: 11em;
+    animation-name: Rotate-1;
+    animation-duration: 2s;
+    animation-direction: alternate;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+}
+
+#radial10 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: transparent;
+    border: 1px solid skyblue;
+    box-shadow: 0px 0 10px skyblue, 0px 0 10px skyblue inset;
+    transform: rotate(4deg);
+    width: 9em;
+    height: 9em;
+    animation-name: Rotate-1;
+    animation-duration: 2s;
+    animation-direction: alternate;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+}
+
+#radial11 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: transparent;
+    border: 1px solid coral;
+    box-shadow: 0px 0 10px coral, 0px 0 10px coral inset;
+    transform: rotate(4deg);
+    width: 7em;
+    height: 7em;
+    animation-name: Rotate-1;
+    animation-duration: 2s;
+    animation-direction: alternate;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+}
+
+#radial12 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: transparent;
+    border: 1px solid lavender;
+    box-shadow: 0px 0 10px lavender, 0px 0 10px lavender inset;
+    transform: rotate(4deg);
+    width: 5em;
+    height: 5em;
+    animation-name: Rotate-1;
+    animation-duration: 2s;
+    animation-direction: alternate;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+}
+
+#radial13 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: transparent;
+    border: 1px solid steelblue;
+    box-shadow: 0px 0 10px steelblue, 0px 0 10px steelblue inset;
+    transform: rotate(4deg);
+    width: 3em;
+    height: 3em;
+    animation-name: Rotate-1;
+    animation-duration: 2s;
+    animation-direction: alternate;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+}
+
+#radial14 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: transparent;
+    border: 1px solid steelblue;
+    box-shadow: 0px 0 10px steelblue, 0px 0 10px steelblue inset;
+    transform: rotate(4deg);
+    width: 1em;
+    height: 1em;
+    animation-name: Rotate-1;
+    animation-duration: 2s;
+    animation-direction: alternate;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+}
